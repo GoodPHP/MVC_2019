@@ -1,0 +1,16 @@
+.view,body,html{height:100%}@media (max-width:740px){.full-page-intro{height:1000px}}.carousel{height:50%}.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item{height:100%}@media (max-width:776px){.carousel{height:100%}}.navbar{background-color:#1C2331;}.navbar-admin{background-color:#1C2331;}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}.float-table{position: absolute; right: -40px; top: 15px;}#MyAddressesBlock{ display:none; } #mainbox{ min-height:460px; } #block_pt_left{ float: left; margin-top: -480px; color: #000; } #block_pt_left a{ color:#000; min-width: 150px; background-color: #fff;} #block_pt_left .col-md-12{ padding: 0px;margin-left: -20px; } #LoginForm { background-color: #fff; } #alert_mar_pad{ margin-bottom: 50px;margin-top: -65px; }
+
+main{
+background-color: rgba(255,255,255,0);
+background-image: url("https://bitcoinfoundation.org/wp-content/uploads/2017/01/page-1@3x1.png");
+background-position: center center;
+background-repeat: no-repeat;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.padding-90{
+  padding-top: 90px;
+}
